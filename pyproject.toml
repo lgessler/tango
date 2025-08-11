@@ -93,7 +93,7 @@ flax = [
   "jaxlib",
   "flax",
   "optax",
-  "tensorflow-cpu>=2.9.1"
+  #"tensorflow-cpu>=2.9.1"
 ]
 wandb = [
   "wandb>=0.16",
